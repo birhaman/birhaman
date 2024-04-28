@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<script src="https://liberapay.com/omeiro/widgets/button.js"></script>
+<noscript><a href="https://liberapay.com/omeiro/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 <!--
 **birhaman/birhaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
